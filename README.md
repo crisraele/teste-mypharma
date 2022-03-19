@@ -13,7 +13,3 @@ SECRET=jnbshnbcdslwHGSDRWDVCLJFMGB&&&$$$
 --------------------------------
 Você pode acessar a Aplicação
 
-
-
-
-####################################
