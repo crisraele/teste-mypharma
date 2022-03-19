@@ -11,5 +11,10 @@ SECRET=jnbshnbcdslwHGSDRWDVCLJFMGB&&&$$$
 
 
 --------------------------------
-Você pode acessar a Aplicação
+
+Para ver esta aplicação
+
+git clone
+
+depois dá um npm install no terminal
 
